@@ -6,7 +6,7 @@ I’m a lifelong maker, a technology problem-solver, and someone who still belie
 
 On LinkedIn, I share lessons from building a business, leading teams, navigating SaaS challenges, and improving the parking and security world with practical, real-world technology.
 
-![Profile Header](./github_profile_header.png)
+![Profile Header](./profile_header.png)
 
 ---
 
