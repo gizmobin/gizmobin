@@ -12,10 +12,10 @@ On LinkedIn, I share lessons from building a business, leading teams, navigating
 
 ## 🤝 Connect with me
 
-- Website: https://operationscommander.com  
-- LinkedIn: https://www.linkedin.com/in/robin-mulloy  
-- Twitter/X: https://twitter.com/robinmulloy  
-- YouTube: *(optional—add if you want)*
+- Website: https://robin.mulloy.ca
+- Coporate: https://operationscommander.com
+- LinkedIn: https://www.linkedin.com/in/robin-mulloy
+- Twitter/X: https://twitter.com/robinmulloy
 
 ---
 
