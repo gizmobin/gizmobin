@@ -27,8 +27,6 @@ On LinkedIn, I share lessons from building a business, leading teams, navigating
 - Using AI to bring better insights to parking managers  
 - Lessons from 25 years of building a SaaS business  
 
-*(If you'd like this auto-populated via a GitHub Action, I can generate that too.)*
-
 ---
 
 ## 🧠 What I’m Working On
